@@ -1,0 +1,111 @@
+ul{
+    display: flex;
+
+}
+
+ul li{
+    list-style: none;
+    
+}
+
+
+.find{
+    color: white;
+    background-color: rgb(100, 97, 97);
+    font-size: 25px;
+    padding: 20px;
+    margin-left: -40px;
+    height: 10%;
+    
+}
+
+.backfellows{
+    height: 39px ;
+    padding: 15px;
+    background-color: rgb(185, 181, 181);
+}
+
+.fellows{
+    
+    margin-top: 25%;
+    font-size: 16px;
+}
+
+.backcontactus{
+    height: 69px;
+    width: 100%;
+    color: white;
+    background-color: rgb(100, 97, 97);
+}
+
+.contactus{
+
+    margin-left: 10px;
+    margin-top: 28px;
+    font-size: 16px;
+}
+
+.carousel{
+    padding : 1em;
+  width: 100%;
+  height: 150px;
+  box-sizing: border-box;
+  background-color: rgb(212, 208, 208);
+  margin-top: -25px ;
+}
+
+h2{
+    font-size: 30px;
+    text-align: center;
+}
+
+span{
+    font-size: 16px;
+}
+.title{
+    text-align: center;
+    background-color: white;
+    padding:20px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+#box{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+article{
+   padding: 12%;
+   width: 15%;
+   margin-left: 5px;
+   margin-right: 5px;
+   margin-top: 10px;
+   margin-bottom: 1px;
+    background-color: rgb(212, 208, 208);
+}
+
+.contact1 {
+    display: flex;
+    flex-direction: column ;
+    width: 65%;
+    margin-left: 15%;
+}
+
+input{
+    margin-bottom: 10px;
+    height: 35px;
+}
+
+textarea{
+    height: 100px;
+}
+
+.title2{
+    border-top:2px solid black;
+}
+
+h3{
+    font-size: 25px;
+}
